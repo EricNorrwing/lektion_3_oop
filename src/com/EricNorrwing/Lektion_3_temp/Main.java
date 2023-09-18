@@ -1,6 +1,7 @@
 package com.EricNorrwing.Lektion_3_temp;
 
 import com.EricNorrwing.Lektion_3_temp.model.Student;
+import org.w3c.dom.ls.LSOutput;
 
 public class Main {
 
@@ -47,7 +48,10 @@ public class Main {
         }
 
          */
+        //this is a new comment
+        System.out.println("This is a new commit coming through");
     }
+
 
     public static int addition(int x, int y){
         int sum = x + y;
