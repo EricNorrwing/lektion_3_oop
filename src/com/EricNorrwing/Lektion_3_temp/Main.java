@@ -29,6 +29,7 @@ public class Main {
         System.out.println(benny+ "\n" + frida + "\n" + eric + "");
 
 
+        System.out.println("Is this the first COMMIT!?");
 
 
         /*System.out.println(randomNumber());
